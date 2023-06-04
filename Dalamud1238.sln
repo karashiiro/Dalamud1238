@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dalamud1238", "Dalamud1238.csproj", "{E7F8A5B7-7768-408A-A8B0-77940EC65497}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicLibrary1", "DynamicLibrary1\DynamicLibrary1.vcxproj", "{DD09EE9A-C9AC-4AA2-989F-BAD16BF63D49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicLibrary2", "DynamicLibrary2\DynamicLibrary2.vcxproj", "{1FB49DE4-F2E7-4EE1-BD84-E28D6EE1DD72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F95B75C0-6B41-4A77-8525-02B2C91F801C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F8A5B7-7768-408A-A8B0-77940EC65497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F8A5B7-7768-408A-A8B0-77940EC65497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F8A5B7-7768-408A-A8B0-77940EC65497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F8A5B7-7768-408A-A8B0-77940EC65497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95B75C0-6B41-4A77-8525-02B2C91F801C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95B75C0-6B41-4A77-8525-02B2C91F801C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95B75C0-6B41-4A77-8525-02B2C91F801C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95B75C0-6B41-4A77-8525-02B2C91F801C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD09EE9A-C9AC-4AA2-989F-BAD16BF63D49}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{DD09EE9A-C9AC-4AA2-989F-BAD16BF63D49}.Debug|Any CPU.Build.0 = Debug|x64
+		{DD09EE9A-C9AC-4AA2-989F-BAD16BF63D49}.Release|Any CPU.ActiveCfg = Release|x64
+		{DD09EE9A-C9AC-4AA2-989F-BAD16BF63D49}.Release|Any CPU.Build.0 = Release|x64
+		{1FB49DE4-F2E7-4EE1-BD84-E28D6EE1DD72}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{1FB49DE4-F2E7-4EE1-BD84-E28D6EE1DD72}.Debug|Any CPU.Build.0 = Debug|x64
+		{1FB49DE4-F2E7-4EE1-BD84-E28D6EE1DD72}.Release|Any CPU.ActiveCfg = Release|x64
+		{1FB49DE4-F2E7-4EE1-BD84-E28D6EE1DD72}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
